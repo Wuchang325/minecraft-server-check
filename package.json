@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "main": "main.js",
+  "dependencies": {
+    "dot-prop": "^5.1.0",
+    "express": "^4.17.1",
+    "mcpe-ping": "0.0.4",
+    "minecraft-server-util": "^5.4.4"
+  }
+}
